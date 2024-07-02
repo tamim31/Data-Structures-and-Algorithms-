@@ -1,5 +1,4 @@
 # Data-Structures-and-Algorithms-
-C++ 
 This repository features an essential collection of data structures and algorithms implemented in C++.
 Projects included:
 
